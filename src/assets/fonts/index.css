@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "iranSans_Light";
+  src: url("./iranSans/woff/IRANSansWeb_Light.woff");
+}
+@font-face {
+  font-family: "iranSans_Black";
+  src: url("./iranSans/woff/IRANSansWeb_Black.woff");
+}
+@font-face {
+  font-family: "iranSans_Medium";
+  src: url("./iranSans/woff/IRANSansWeb_Medium.woff");
+}
+@font-face {
+  font-family: "kalameh_Black";
+  src: url("./Kalame/Kalameh_Black.ttf");
+}
+@font-face {
+  font-family: "kalameh_Bold";
+  src: url("./Kalame/Kalameh_Bold.ttf");
+}
+@font-face {
+  font-family: "kalameh_Regular";
+  src: url("./Kalame/Kalameh_Regular.ttf");
+}
+@font-face {
+  font-family: "kalameh_Thin";
+  src: url("./Kalame/Kalameh_thin.ttf");
+}
+@font-face {
+  font-family: "Doran-extraBold";
+  src: url("./doran/woff/Doran-ExtraBold.woff");
+}
+@font-face {
+  font-family: "Doran-extraBold2";
+  src: url("./doran/Doran-ExtraBold2.ttf");
+}

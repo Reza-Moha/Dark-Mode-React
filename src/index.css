@@ -1,0 +1,25 @@
+@import url("./assets/fonts/index.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+ 
+  body {
+    @apply h-full;
+  }
+  #root{
+    @apply h-full flex flex-col
+  }
+
+  
+}
+html{
+  height: 100%;
+  background: linear-gradient(to right, rgb(255, 228, 230), rgb(204, 251, 241));
+}
+
+html.dark{
+  height: 100%;
+  background:rgb(3 0 19) !important
+}
